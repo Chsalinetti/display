@@ -1,10 +1,10 @@
-import Television from './Television';
+import Display from './Display';
 
 
 function App() {
   return (
     <div className="App">
-      <Television/>
+      <Display/>
     </div>
   );
 }

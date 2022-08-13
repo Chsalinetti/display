@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import App from './Television';
+import App from './Display';
 import './AlbumArt.css';
 
 /**
